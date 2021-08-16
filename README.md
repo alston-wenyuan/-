@@ -4,7 +4,7 @@
 
 1. **性能调优**
 
-   - [方法论]([https://github.com/alston-wenyuan/-/blob/master/%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98%20-%20%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98%E6%96%B9%E6%B3%95%E8%AE%BA.md](https://github.com/alston-wenyuan/-/blob/master/性能调优 - 性能调优方法论.md))
+   - [方法论](https://github.com/alston-wenyuan/-/blob/master/性能调优 - 性能调优方法论.md)
 
    - 容量评估
    - 连接池
@@ -72,4 +72,3 @@
    - 网络框架
 
    - 日志框架
-
