@@ -6,10 +6,9 @@
 
 - [方法论](https://github.com/alston-wenyuan/-/blob/master/phase_1/performance_optimization/Methodology.md)
 
-- 容量评估
-- 连接池
-- CDN网络
-- 工具介绍
+- [容量评估](https://github.com/alston-wenyuan/-/blob/master/phase_1/performance_optimization/CapacityEvaluation.md)
+- [池化技术](https://github.com/alston-wenyuan/-/blob/master/phase_1/performance_optimization/PoolTechnology.md)
+- [调优工具](https://github.com/alston-wenyuan/-/blob/master/phase_1/performance_optimization/TuningTools.md)
 
 **2. 设计模式**
 
