@@ -12,7 +12,7 @@
 
 **2. 设计模式**
 
-- 5种构建型模式
+- [5种构建型模式](https://github.com/alston-wenyuan/-/blob/master/phase_1/design_pattern/create_mode.md)
 
 - 7种结构型模式
 
