@@ -441,7 +441,7 @@ class MyRunnableTest implements Runnable {
 
 ### 3、线程的状态及转换
 
-![线程状态转换图](.\图片\线程状态转换图.jpg)
+![线程状态转换图](./01_01.jpg)
 
 **dump 文件里，值得关注的线程状态有：**
 	死锁，**Deadlock（重点关注）**
